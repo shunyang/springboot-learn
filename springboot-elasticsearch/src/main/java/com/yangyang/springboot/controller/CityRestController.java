@@ -10,7 +10,6 @@ import java.util.List;
 
 /**
  * 城市 Controller 实现 Restful HTTP 服务
- * <p>
  */
 @RestController
 public class CityRestController {

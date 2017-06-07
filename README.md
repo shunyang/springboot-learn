@@ -14,3 +14,9 @@ springboot链接mysql，mybatis，并使用freemarker展现的例子
 
 * springboot-starter-custom
 使用自定义的starter
+
+* springboot-swagger
+springboot应用使用swagger来管理api文档
+
+* springboot-elasticsearch
+springboot与elasticsearch 2.X版本的结合
