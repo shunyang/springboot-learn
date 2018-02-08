@@ -27,6 +27,10 @@
         <module>springboot-starter-custom</module>
         <module>springboot-swagger</module>
         <module>springboot-elasticsearch</module>
+        <module>springboot-schedule</module>
+        <module>springboot-mail</module>
+        <module>springboot-es5</module>
+        <module>springboot-actuator</module>
     </modules>
 
 </project>
